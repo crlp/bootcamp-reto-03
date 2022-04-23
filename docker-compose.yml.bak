@@ -22,15 +22,6 @@ services:
       - 'rlozada-net'
 
  
-  
-  config:
-    image: rlozada/config-server:0.0.1
-    restart: always
-    container_name: config
-    ports:
-      - '8888:8888'
-    networks:
-      - 'rlozada-net'
   ux-payment-service:
     image: rlozada1994/ux-payment-services:0.0.2
     restart: always

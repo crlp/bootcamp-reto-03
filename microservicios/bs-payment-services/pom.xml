@@ -9,9 +9,9 @@
 		<relativePath/> <!-- lookup parent from repository -->
 	</parent>
 	<groupId>bcp.bootcamp</groupId>
-	<artifactId>payment-services</artifactId>
+	<artifactId>bs-payment-services</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
-	<name>payment-services</name>
+	<name>bs-payment-services</name>
 	<description>Services para obtener servicios</description>
 	<properties>
 		<java.version>11</java.version>

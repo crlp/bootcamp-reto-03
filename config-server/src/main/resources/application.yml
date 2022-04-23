@@ -9,6 +9,6 @@ spring:
     config:
       server:
         git:
-          uri: https://github.com/soabel/bcp-bootcamp-repoconfig.git
+          uri: https://github.com/crlp/bcp-bootcamp-repoconfig.git
           default-label: main
           timeout: 10
